@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "8a9e6819-2367-0eac-75d7-3de677d70b01",
+  "instructors": {
+    "content": [
+      "41b94b2f-5731-77b7-b841-fc6ced8c71fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c07b046c-6ac5-48cf-a100-b4bcc00e89d5",
+    "website": "11-337j-urban-design-policy-and-action-spring-2007"
+  },
+  "course_title": "Urban Design Policy and Action",
+  "course_description": "Governments at every level assume a measure of responsibility for seeking good design. Some of that responsibility is exercised directly\u2014through the design and construction of government buildings, for example. But most changes to our environments are neither designed nor built by governments. Rather, they are the result of the actions and investments of private individuals, institutions, corporations, joint ventures, or private/public collaborations. Yet, the actions of all of these actors are affected by the design policies of government and the interventions that are undertaken to implement those policies. In this advanced graduate-level seminar we will explore new ways of thinking about urban design policy in an attempt to better understand just what government does\u2014and what it can do effectively\u2014in the realm of design policy.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.247J",
+  "primary_course_number": "11.337J",
+  "course_image_thumbnail": {
+    "content": "ec232dd1-74a0-de82-2d94-3d1aa701af83",
+    "website": "11-337j-urban-design-policy-and-action-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "db9b51cd-d29a-44b5-b467-3c2f36d44740",
+  "site_short_id": "11.337j-spring-2007",
+  "site_url_path": "courses/11-337j-urban-design-policy-and-action-spring-2007",
+  "title": "Course Metadata"
+}
