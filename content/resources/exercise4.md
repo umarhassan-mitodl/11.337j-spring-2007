@@ -5,6 +5,8 @@ description: Problem set on on the use of incentives (and disincentives) as tool
 file: /courses/11-337j-urban-design-policy-and-action-spring-2007/2460a7dad9f80897a5224f749a039806_exercise4.pdf
 file_size: 65245
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

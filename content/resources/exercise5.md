@@ -7,6 +7,8 @@ description: This exercise is intended to have you focus on the generation and d
 file: /courses/11-337j-urban-design-policy-and-action-spring-2007/7bf4194a5dece4551c6667ec2bb856b0_exercise5.pdf
 file_size: 60176
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the required text and other texts.
   It also includes a list of required and supplementary reading assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -455,7 +457,7 @@ Field trip to Boston Civic Design Commission meeting
 
 ### Required
 
-For further information on the Boston Civic Design Commission, see: {{% resource_link "34108aa5-3154-48da-ae4d-188e11bd04cd" "BCDC" %}}.
+For further information on the Boston Civic Design Commission, see: [BCDC](http://www.bostonplans.org/planning/urban-design/boston-civic-design-commission).
 
 
 {{< tdclose >}}
@@ -481,7 +483,7 @@ Scheer, Brenda. "The Debate on Design Review." From _Design Review: Challenging 
 
 Rawn, William. "The Boston Federal Courthouse: The Role of the Boston Civic Design Commission." In _Federal Buildings in Context: The Role of Design Review_. Edited by J. Carter Brown. Washington, DC: National Gallery of Art, 1995, pp. 95-104. ISBN: 9780300076981.
 
-Look at the following Web site: {{% resource_link "627b3e05-ad87-4260-9bc4-e4e4edddc372" "Design Review Panel Pilot Project" %}}.
+Look at the following Web site: [Design Review Panel Pilot Project](http://www.toronto.ca/planning/designsymposium.htm).
 
 ### Supplementary
 

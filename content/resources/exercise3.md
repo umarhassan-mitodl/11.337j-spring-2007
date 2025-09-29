@@ -6,6 +6,8 @@ description: Assignment on the allocation and enforcement of property rights as 
 file: /courses/11-337j-urban-design-policy-and-action-spring-2007/e855a60f57c6884e98a7247dfd7105de_exercise3.pdf
 file_size: 60310
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

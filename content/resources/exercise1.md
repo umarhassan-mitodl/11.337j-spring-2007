@@ -7,6 +7,8 @@ description: This exercise is intended to get you to think about the tool owners
 file: /courses/11-337j-urban-design-policy-and-action-spring-2007/c8cdf3240c5e2770a6e8fcbb641d64ce_exercise1.pdf
 file_size: 55915
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

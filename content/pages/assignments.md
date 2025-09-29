@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains assignments used in the 2005 and 2006 versions
   of the course, including five short assignments and a final paper.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

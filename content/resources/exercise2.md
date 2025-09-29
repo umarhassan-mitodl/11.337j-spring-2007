@@ -6,6 +6,8 @@ description: This exercise asks you to focus on the tool of regulation. You are 
 file: /courses/11-337j-urban-design-policy-and-action-spring-2007/6706fb52811ca317d1f149376fc19e59_exercise2.pdf
 file_size: 59663
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
